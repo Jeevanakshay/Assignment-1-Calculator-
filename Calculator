@@ -1,0 +1,31 @@
+def add(number_1,number_2):
+    return number_1 + number_2
+def sub(number_1,number_2):
+    return number_1 - number_2
+def multiply(number_1,number_2):
+    return number_1 * number_2
+def division(number_1,number_2):
+    return number_1 / number_2
+
+
+number_1 = int(input("Enter the number :"))
+number_2 = int(input("Enter the number :"))
+
+print('''Your option are
+        1.Add
+        2.sub
+        3.multiply
+        4.division''')
+       
+user_select = int(input("Your are choice is : "))
+
+if user_select == 1:
+    print(add(number_1,number_2))
+if user_select == 2:
+    print(sub(number_1 , number_2))
+elif user_select == 3:
+    print(multiply(number_1 , number_2))
+elif user_select == 4:
+    print(division(number_1 , number_2)) 
+else:
+    print("Not identified ") 
