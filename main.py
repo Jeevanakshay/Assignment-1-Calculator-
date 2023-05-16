@@ -1,25 +1,22 @@
-from fastapi import FastAPI
-from schema.models import Snacks
-from scripts.core.handlers.site_report_handler import create_grocery, get_total, update_item, delete_item
+import json
 
-app = FastAPI()
+with open("sample_data.json") as file:
 
+    sample_data = json.load(file)
+    new_list = []
+    parameters = sample_data["parametersList"]
 
-@app.post("/models/{item_id}")
-def fun(item_id: int, snacks_item: Snacks):
-    return create_grocery(item_id, snacks_item)
+    for each_parameter in parameters:
+        new_dict = {
+            "parameterName": each_parameter["parameterName"],
+            "min_value": each_parameter["GaugeMaximum"],
+            "max_value": each_parameter["GaugeMinimum"],
+            "average": each_parameter["Threshold"],
+        }
+        new_list.append(new_dict)
 
+json_list = json.dumps(new_list, indent=4)
+print(json_list)
 
-@app.get("/hello")
-def fun():
-    return get_total
-
-
-@app.put("/welcome/{name}")
-def fun(name: str, update_items: Snacks):
-    return update_item(name, update_items)
-
-
-@app.delete("/delete_snacks/{item_id}")
-async def fun(item_id: str):
-    return delete_item(item_id)
+with open("sample_out.json", "w") as file1:
+    file1.write(json_list)
