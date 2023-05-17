@@ -1,22 +1,11 @@
-import json
+from fastapi import FastAPI
+import uvicorn
+from scripts.core.services.site_report_service import app as grocery_router
 
-with open("sample_data.json") as file:
+app_main = FastAPI()
 
-    sample_data = json.load(file)
-    new_list = []
-    parameters = sample_data["parametersList"]
+app_main.include_router(grocery_router)
 
-    for each_parameter in parameters:
-        new_dict = {
-            "parameterName": each_parameter["parameterName"],
-            "min_value": each_parameter["GaugeMaximum"],
-            "max_value": each_parameter["GaugeMinimum"],
-            "average": each_parameter["Threshold"],
-        }
-        new_list.append(new_dict)
+if __name__ == "__main__":
+    uvicorn.run("main:app_main")
 
-json_list = json.dumps(new_list, indent=4)
-print(json_list)
-
-with open("sample_out.json", "w") as file1:
-    file1.write(json_list)
