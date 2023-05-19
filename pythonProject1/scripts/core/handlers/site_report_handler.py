@@ -1,6 +1,7 @@
 from schema.models import Snacks
 from scripts.core.db.__pycache_.mongo import collection_grocery
 from scripts.core.db.__pycache_ import mongo
+from scripts.constants.app_constants import Aggregation
 
 collection = mongo.collection_grocery
 
@@ -51,28 +52,7 @@ def delete_item(item_id: str):
 
 
 def pipeline():
-    data = collection.aggregate([
-        {
-            '$addFields': {
-                'Total_price': {
-                    '$multiply': [
-                        '$quantity', '$price'
-                    ]
-                }
-            }
-        }, {
-            '$group': {
-                '_id': None,
-                'total': {
-                    '$sum': '$Total_price'
-                }
-            }
-        }, {
-            '$project': {
-                '_id': 0
-            }
-        }
-    ])
+    data = collection.aggregate(Aggregation.agg)
     print(data)
     total = list(data)[0]['total']
     return {'Total_price': total}

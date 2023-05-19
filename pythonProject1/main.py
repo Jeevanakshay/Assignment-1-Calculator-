@@ -7,5 +7,5 @@ app_main = FastAPI()
 app_main.include_router(grocery_router)
 
 if __name__ == "__main__":
-    uvicorn.run("main:app_main",host=0.0.0.1, port=8000)
+    uvicorn.run("main:app_main", reload=True)
 
