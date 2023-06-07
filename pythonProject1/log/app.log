@@ -1,0 +1,302 @@
+2023-05-22 10:13:18,300 - INFO - site_report_handler.py:19 - create_grocery - Info:Successfully items are inserted in database 
+2023-05-22 10:14:33,019 - INFO - site_report_handler.py:19 - create_grocery - Info:Successfully items are inserted in database 
+2023-05-22 10:18:15,947 - WARNING - site_report_handler.py:46 - update_item - warning:Issues in updation in bill
+2023-05-22 10:27:00,578 - INFO - site_report_handler.py:69 - pipeline - Total value is calculated 
+2023-05-22 10:28:35,065 - INFO - site_report_handler.py:57 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 10:28:43,545 - INFO - site_report_handler.py:57 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 10:28:47,231 - INFO - site_report_handler.py:57 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 10:28:51,293 - INFO - site_report_handler.py:57 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 10:28:59,164 - INFO - site_report_handler.py:57 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 10:29:07,262 - INFO - site_report_handler.py:57 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 10:30:30,921 - INFO - site_report_handler.py:57 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 10:31:28,729 - INFO - site_report_handler.py:57 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 10:31:41,268 - INFO - site_report_handler.py:57 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 11:03:26,252 - INFO - site_report_handler.py:20 - create_grocery - Info:Successfully items are inserted in database 
+2023-05-22 11:04:17,421 - INFO - site_report_handler.py:20 - create_grocery - Info:Successfully items are inserted in database 
+2023-05-22 14:55:02,510 - INFO - site_report_handler.py:59 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 14:55:06,611 - INFO - site_report_handler.py:59 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 14:55:29,156 - INFO - site_report_handler.py:59 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 14:56:14,693 - WARNING - site_report_handler.py:16 - create_grocery - Warming:No quantity is in listed 
+2023-05-22 14:56:28,549 - INFO - site_report_handler.py:21 - create_grocery - Info:Successfully items are inserted in database 
+2023-05-22 14:56:56,308 - INFO - site_report_handler.py:59 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 14:57:19,747 - INFO - site_report_handler.py:59 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 14:58:21,095 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 14:58:24,796 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 14:58:32,438 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 14:58:35,775 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 14:58:36,004 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 15:00:12,135 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 15:03:58,392 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 15:03:59,321 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 15:04:00,539 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 15:07:38,668 - INFO - site_report_handler.py:59 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 15:09:27,039 - INFO - site_report_handler.py:59 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 15:10:33,144 - ERROR - site_report_handler.py:51 - update_item - Exception in update_data: type object 'comments' has no attribute 'update_name'
+2023-05-22 15:11:13,323 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 15:15:47,308 - ERROR - site_report_handler.py:51 - update_item - Exception in update_data: update only works with $ operators
+2023-05-22 15:16:53,505 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 15:17:47,127 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 15:19:24,616 - INFO - site_report_handler.py:45 - update_item - Info:Items are updated in the bill
+2023-05-22 15:20:14,681 - INFO - site_report_handler.py:45 - update_item - Info:Items are updated in the bill
+2023-05-22 15:21:35,263 - ERROR - site_report_handler.py:78 - pipeline - Exception in pipeline_aggregation: 'Total_price'
+2023-05-22 15:26:30,234 - ERROR - site_report_handler.py:78 - pipeline - Exception in pipeline_aggregation: 'Total_price'
+2023-05-22 15:26:59,118 - ERROR - site_report_handler.py:78 - pipeline - Exception in pipeline_aggregation: list index out of range
+2023-05-22 15:27:23,611 - ERROR - site_report_handler.py:78 - pipeline - Exception in pipeline_aggregation: list index out of range
+2023-05-22 15:27:24,617 - ERROR - site_report_handler.py:78 - pipeline - Exception in pipeline_aggregation: list index out of range
+2023-05-22 15:27:45,858 - INFO - site_report_handler.py:75 - pipeline - Email is sent successfully
+2023-05-22 15:28:07,521 - INFO - site_report_handler.py:75 - pipeline - Email is sent successfully
+2023-05-22 15:47:40,204 - INFO - site_report_handler.py:75 - pipeline - Email is sent successfully
+2023-05-22 15:47:50,447 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,447 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,448 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,448 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,448 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,449 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,449 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,449 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,449 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,450 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,450 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,450 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,451 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,451 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,452 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,452 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,454 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,454 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,454 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,454 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,455 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,457 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,458 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,458 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,458 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,458 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,458 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,458 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 15:47:50,458 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,288 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,290 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,290 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,291 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,292 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,292 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,293 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,293 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,293 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,294 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,294 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,294 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,295 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,295 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,295 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,296 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,296 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,296 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,296 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,296 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,297 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,297 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,298 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,298 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,298 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,298 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,299 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,299 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 16:21:54,299 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:06:45,553 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 18:06:47,209 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 18:08:22,544 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 18:08:27,020 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 18:09:11,945 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 18:09:14,927 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 18:09:15,069 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-22 18:11:02,335 - INFO - site_report_handler.py:21 - create_grocery - Info:Successfully items are inserted in database 
+2023-05-22 18:11:08,836 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,836 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,836 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,837 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,837 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,837 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,837 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,837 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,837 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,837 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,838 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,838 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,838 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,838 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,838 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,838 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,838 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,838 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,839 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,839 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,839 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,839 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,839 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,839 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,839 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,840 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,840 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,840 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,840 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,840 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:08,840 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-22 18:11:34,535 - INFO - site_report_handler.py:45 - update_item - Info:Items are updated in the bill
+2023-05-22 18:11:58,698 - INFO - site_report_handler.py:59 - delete_item - Info:Particular item is deleted in bill
+2023-05-22 18:13:18,435 - INFO - site_report_handler.py:75 - pipeline - Email is sent successfully
+2023-05-23 09:55:26,783 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,783 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,784 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,784 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,784 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,784 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,784 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,784 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,784 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,784 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,784 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,785 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,785 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,785 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,785 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,786 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,786 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,786 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,786 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,786 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,786 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,786 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,786 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,786 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,787 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,787 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,787 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,787 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,787 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,787 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:55:26,792 - INFO - site_report_handler.py:75 - pipeline - Email is sent successfully
+2023-05-23 09:56:32,414 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,415 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,415 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,416 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,416 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,416 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,416 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,417 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,417 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,417 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,418 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,418 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,418 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,418 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,418 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,418 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,419 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,419 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,419 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,419 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,419 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,419 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,419 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,419 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,420 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,420 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,420 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,420 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,421 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 09:56:32,421 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:39,307 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:39,311 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:39,312 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:39,313 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:39,314 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:39,314 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:39,314 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:39,315 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:39,315 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:39,315 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:46,472 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:46,473 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:46,473 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:46,474 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:46,474 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:46,475 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:46,475 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:46,475 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:46,476 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:46,476 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:00:46,524 - INFO - site_report_handler.py:75 - pipeline - Email is sent successfully
+2023-05-23 10:02:40,123 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:02:40,125 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:02:40,125 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:02:40,126 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:02:40,127 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:02:40,128 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:02:40,128 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:02:40,129 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:02:40,130 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:02:40,130 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:02:40,136 - INFO - site_report_handler.py:75 - pipeline - Email is sent successfully
+2023-05-23 10:37:37,322 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:37:37,322 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:37:37,323 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:37:37,323 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:37:37,323 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:37:37,323 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:37:37,323 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:37:37,323 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:37:37,323 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:37:37,323 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 10:37:37,327 - INFO - site_report_handler.py:75 - pipeline - Email is sent successfully
+2023-05-23 11:52:13,825 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:52:13,825 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:52:13,825 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:52:13,826 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:52:13,826 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:52:13,826 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:52:13,826 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:52:13,826 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:52:13,826 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:52:13,827 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:52:13,834 - INFO - site_report_handler.py:75 - pipeline - Email is sent successfully
+2023-05-23 11:53:36,172 - INFO - site_report_handler.py:59 - delete_item - Info:Particular item is deleted in bill
+2023-05-23 11:56:36,546 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:56:36,547 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:56:36,547 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:56:36,547 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:56:36,547 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:56:36,547 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:56:36,547 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:56:36,548 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:56:36,548 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 11:56:36,557 - INFO - site_report_handler.py:75 - pipeline - Email is sent successfully
+2023-05-23 12:11:23,302 - INFO - site_report_handler.py:21 - create_grocery - Info:Successfully items are inserted in database 
+2023-05-23 12:13:13,677 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:13:13,677 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:13:13,679 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:13:13,680 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:13:13,680 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:13:13,680 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:13:13,680 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:13:13,681 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:13:13,681 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:13:13,681 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:14:16,261 - INFO - site_report_handler.py:45 - update_item - Info:Items are updated in the bill
+2023-05-23 12:14:18,506 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-23 12:14:22,707 - WARNING - site_report_handler.py:48 - update_item - warning:Issues in updation in bill
+2023-05-23 12:15:00,241 - INFO - site_report_handler.py:59 - delete_item - Info:Particular item is deleted in bill
+2023-05-23 12:16:10,740 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:16:10,741 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:16:10,741 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:16:10,741 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:16:10,741 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:16:10,741 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:16:10,741 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:16:10,742 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:16:10,742 - INFO - site_report_handler.py:35 - get_all_details - Info:All the information is present in the database
+2023-05-23 12:16:10,746 - INFO - site_report_handler.py:75 - pipeline - Email is sent successfully
+2023-05-23 12:17:20,308 - INFO - site_report_handler.py:75 - pipeline - Email is sent successfully
+2023-05-23 12:43:43,888 - INFO - site_report_handler.py:23 - create_grocery - Info:Successfully items are inserted in database 
+2023-05-23 14:30:08,570 - INFO - site_report_handler.py:36 - get_all_details - Info:All the information is present in the database
